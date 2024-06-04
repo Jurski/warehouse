@@ -1,0 +1,10 @@
+{
+  "juris": {
+    "username": "juris",
+    "password": "12345"
+  },
+  "test": {
+    "username": "test",
+    "password": "test"
+  }
+}
